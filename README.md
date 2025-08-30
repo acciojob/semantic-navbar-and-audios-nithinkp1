@@ -6,9 +6,9 @@ Give any href of your choice.
 
 Also, add 3 audios using these URLs, do not forget to put the attribute that displays the music controls.
    
-- http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3
-- http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg
-- http://codeskulptor-demos.commondatastorage.googleapis.com/pang/paza-moduless.mp3.
+- https://github.com/acciojob/semantic-navbar-and-audios-nithinkp1/releases
+- https://github.com/acciojob/semantic-navbar-and-audios-nithinkp1/releases
+- https://github.com/acciojob/semantic-navbar-and-audios-nithinkp1/releases
 
 
 Add the heading `3 random audios` above the audios.
